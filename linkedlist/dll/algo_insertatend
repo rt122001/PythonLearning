@@ -1,0 +1,8 @@
+1. START
+2. If the list is empty, add the node to the list and point 
+   the head to it.
+3. If the list is not empty, find the last node of the list.
+4. Create a link between the last node in the list and the 
+   new node.
+5. The new node will point to NULL as it is the new last node.
+6. END

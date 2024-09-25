@@ -1,0 +1,8 @@
+1. START
+2. Create a new node with three variables: prev, data, next.
+3. Store the new data in the data variable
+4. If the list is empty, make the new node as head.
+5. Otherwise, link the address of the existing first node to the 
+next variable of the new node, and assign null to the prev variable.
+6. Point the head to the new node.
+7. END

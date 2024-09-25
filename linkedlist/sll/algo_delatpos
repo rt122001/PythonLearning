@@ -1,0 +1,5 @@
+1. START
+2. Iterate until find the current node at position in the list.
+3. Assign the adjacent node of current node in the list 
+   to its previous node.
+4. END

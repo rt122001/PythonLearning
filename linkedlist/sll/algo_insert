@@ -1,0 +1,8 @@
+1. START
+2. Create a node to store the data
+3. Check if the list is empty
+4. If the list is empty, add the data to the node and 
+   assign the head pointer to it.
+5. If the list is not empty, add the data to a node and link to the 
+   current head. Assign the head to the newly added node.
+6. END

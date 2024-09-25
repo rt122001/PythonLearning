@@ -1,0 +1,7 @@
+1. START
+2. We use three pointers to perform the reversing: 
+   prev, next, head.
+3. Point the current node to head and assign its next value to 
+   the prev node.
+4. Iteratively repeat the step 3 for all the nodes in the list.
+5. Assign head to the prev node.

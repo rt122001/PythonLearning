@@ -1,0 +1,4 @@
+1. START
+2. Iterate until you find the second last element in the list.
+3. Assign NULL to the second last element in the list.
+4. END

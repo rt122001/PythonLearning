@@ -1,0 +1,6 @@
+1 START
+2 If the list is not empty, iteratively check if the list 
+  contains the key
+3 If the key element is not present in the list, unsuccessful 
+  search
+4 END

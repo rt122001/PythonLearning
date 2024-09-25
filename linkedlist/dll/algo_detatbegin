@@ -1,0 +1,6 @@
+1. START
+2. Check the status of the doubly linked list
+3. If the list is empty, deletion is not possible
+4. If the list is not empty, the head pointer is 
+   shifted to the next node.
+5. END
